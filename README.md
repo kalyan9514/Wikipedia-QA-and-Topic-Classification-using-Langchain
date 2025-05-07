@@ -107,4 +107,8 @@ jupyter notebook Final_Code.ipynb
 
 - Extend to multilingual QA via machine translation
 
+**Contact:**
+
+For queries or suggestions, feel free to reach out to me on LinkedIn - https://www.linkedin.com/in/kalyan-kumar-8170a111b/
+
 
